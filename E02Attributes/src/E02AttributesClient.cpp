@@ -10,7 +10,7 @@
 #endif
 
 #include <CommonAPI/CommonAPI.hpp>
-#include <CommonAPI/Extensions/AttributeCacheExtension.hpp>
+#include <CommonAPI/AttributeCacheExtension.hpp>
 #include <v1/commonapi/examples/E02AttributesProxy.hpp>
 
 using namespace v1::commonapi::examples;
